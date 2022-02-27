@@ -1,7 +1,8 @@
 header {
-    background-color: var(--grey);
+    background-color: var(--cerise);
     border: 0;
     border-bottom: 0.3em;
+    border-top: 0.3em;
 	border-style: solid;
 	border-color: var(--cerise);
     position: fixed;
@@ -23,7 +24,7 @@ header {
 }
 
 .navbar-item {
-    background-color: var(--grey);
+    background-color: var(--cerise);
     float: left;
     color: #f2f2f2;
     padding: 1%;
@@ -75,7 +76,7 @@ header {
 
     #navbar {
         font-size: 2rem;
-        background-color: var(--grey-transparent);
+        /*background-color: var(--grey-transparent);*/
         padding: 0%;
         grid-template-columns: auto 1fr;
     }

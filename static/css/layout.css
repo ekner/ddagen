@@ -26,7 +26,7 @@
 @media (min-width: 600px) {
     #home_body {
         background-size: cover;
-        background: url(/static/img/assets/bakgrund_v2.png) fixed center;
+        background: url(/static/img/assets/FridaochLisa-square.jpg) fixed;
     }
     #ddagen-logo-intro {
         width: 45%;
